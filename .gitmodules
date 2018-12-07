@@ -1,0 +1,3 @@
+[submodule "lab8/raw_python"]
+	path = lab8/raw_python
+	url = https://github.com/lightsing/raw_python.git
